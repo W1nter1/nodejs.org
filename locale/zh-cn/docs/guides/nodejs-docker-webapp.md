@@ -1,8 +1,5 @@
 ---
-title: 把一个 Node.js web 应用程序给 Docker 化
-layout: docs.hbs
----
-
+title: 把一个 Node.js web 应用程序给 Docke
 # 把一个 Node.js web 应用程序给 Docker 化
 
 本示例的目标是给你演示如何将一个 Node.js 的应用装入到 Docker 容器中。本教程旨在针对于开发人员，而 *非* 产品发布人员。此教程同样假定你有一个可以正常工作的 [Docker 安装](https://docs.docker.com/engine/installation/)，并且对于 Node.js 的应用程序是如何组织的有一个大致的基本了解。
